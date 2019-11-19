@@ -9,4 +9,11 @@ def toadstool
 end
 
 def link 
+  line = "It's Dangerous To Go Alone!"
+  puts line
+end
+
+def any_phrase(any_phrase)
+  puts "#{any_phrase}"
+end
   
